@@ -406,6 +406,226 @@
       "sha256": "666b5435be276804df4b868242b271c48845cddea4fe7d4f10fa471ff6baa828",
       "path": "layouts/vi-vn.json",
       "short": "VN"
+    },
+    {
+      "pack": "ui/bg",
+      "kind": "ui",
+      "name": "Български",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 8996,
+      "sha256": "5080f7d52a6d7c49fdd3478a3435c80ebd5e2d97ddd193d00b2dad01bcd1c511",
+      "path": "ui/bg.json",
+      "language": "bg"
+    },
+    {
+      "pack": "ui/cs",
+      "kind": "ui",
+      "name": "Čeština",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6350,
+      "sha256": "5422136bc888385c71a839084f845393702affc91d6bcb5adb7f809e338acace",
+      "path": "ui/cs.json",
+      "language": "cs"
+    },
+    {
+      "pack": "ui/da",
+      "kind": "ui",
+      "name": "Dansk",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6218,
+      "sha256": "a402df4a83c88de0892152d4656be70af5937e040c71943b03a561981a6b85cb",
+      "path": "ui/da.json",
+      "language": "da"
+    },
+    {
+      "pack": "ui/el",
+      "kind": "ui",
+      "name": "Ελληνικά",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 9666,
+      "sha256": "8352624d59eea96f254a567997a6a98c08ea741aa3a78896b0ee1b66269b24ad",
+      "path": "ui/el.json",
+      "language": "el"
+    },
+    {
+      "pack": "ui/fi",
+      "kind": "ui",
+      "name": "Suomi",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6553,
+      "sha256": "b237b4bab5fc6897cbe506744ca1d2169904fd77c15e1e4e7ce167998a20f65c",
+      "path": "ui/fi.json",
+      "language": "fi"
+    },
+    {
+      "pack": "ui/fr",
+      "kind": "ui",
+      "name": "Français",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6644,
+      "sha256": "6481b91f3e935b95f5a01c7d9a21f78c27b9d1db8e34e1ceb103c79de1f65549",
+      "path": "ui/fr.json",
+      "language": "fr"
+    },
+    {
+      "pack": "ui/hr",
+      "kind": "ui",
+      "name": "Hrvatski",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6114,
+      "sha256": "ea11356768822c0ac7063904f4c1f1147e0b99391f08a480bdb4a99e1e2272d3",
+      "path": "ui/hr.json",
+      "language": "hr"
+    },
+    {
+      "pack": "ui/hu",
+      "kind": "ui",
+      "name": "Magyar",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6814,
+      "sha256": "8674c62e39a25014e78aba150c761cf00ff21da262e74dc9c136d74f82699daa",
+      "path": "ui/hu.json",
+      "language": "hu"
+    },
+    {
+      "pack": "ui/it",
+      "kind": "ui",
+      "name": "Italiano",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6291,
+      "sha256": "daf0a53d5a739aa886cb56f9a3d09dddfce39372f81c50e149782d67a52e009c",
+      "path": "ui/it.json",
+      "language": "it"
+    },
+    {
+      "pack": "ui/nb",
+      "kind": "ui",
+      "name": "Norsk bokmål",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6145,
+      "sha256": "a37ad44fd6450236169fd4140506bc573597af25e652cbbf0b6c658f8d057e53",
+      "path": "ui/nb.json",
+      "language": "nb"
+    },
+    {
+      "pack": "ui/nl",
+      "kind": "ui",
+      "name": "Nederlands",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6315,
+      "sha256": "3f7ef9991512b2d60d09fcfff4f2eaa43e1f840e7ad5bd46289c1c4ef2f593fd",
+      "path": "ui/nl.json",
+      "language": "nl"
+    },
+    {
+      "pack": "ui/pl",
+      "kind": "ui",
+      "name": "Polski",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6357,
+      "sha256": "39d8e3c7e4853f1ed401d6582382f2d27fbf61fec9cc8edbbedbaba563fb8ab1",
+      "path": "ui/pl.json",
+      "language": "pl"
+    },
+    {
+      "pack": "ui/pt-BR",
+      "kind": "ui",
+      "name": "Português (Brasil)",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6229,
+      "sha256": "84079c63a3c9952d71c53b9f7858ca1cf52163d8e3276003731656bd1f132f46",
+      "path": "ui/pt-BR.json",
+      "language": "pt-BR"
+    },
+    {
+      "pack": "ui/pt-PT",
+      "kind": "ui",
+      "name": "Português",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6212,
+      "sha256": "11bb9ced8c257ce45232bdd5a04e5f7fc8aa1ffa5e7a5eadb2c0b4eb0b8e7119",
+      "path": "ui/pt-PT.json",
+      "language": "pt-PT"
+    },
+    {
+      "pack": "ui/ro",
+      "kind": "ui",
+      "name": "Română",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6504,
+      "sha256": "b20c24e5cd49ed3cc55eda3c4fb2e76a8ad1c96136abab0c4dec675aeeb08d2a",
+      "path": "ui/ro.json",
+      "language": "ro"
+    },
+    {
+      "pack": "ui/sk",
+      "kind": "ui",
+      "name": "Slovenčina",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6346,
+      "sha256": "77942abe8c5b520c9fb04ba3465b9521c4ea9e870b59ed0fa059081247004a84",
+      "path": "ui/sk.json",
+      "language": "sk"
+    },
+    {
+      "pack": "ui/sv",
+      "kind": "ui",
+      "name": "Svenska",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6275,
+      "sha256": "e54b6bd0fd231cc768d7a52a0ad2a2896f66e9cdf41735431e4c8e40e9305bac",
+      "path": "ui/sv.json",
+      "language": "sv"
+    },
+    {
+      "pack": "ui/tr",
+      "kind": "ui",
+      "name": "Türkçe",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 6327,
+      "sha256": "953489c1694429d9bdc95ef974055cf2a4dbb8f6834a31fe3efb5cec35741281",
+      "path": "ui/tr.json",
+      "language": "tr"
+    },
+    {
+      "pack": "ui/uk",
+      "kind": "ui",
+      "name": "Українська",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 9154,
+      "sha256": "e823e6d41a043bf7d99ba8dd22549ebef10c9e8871389cf584ef25f2cf7b73f5",
+      "path": "ui/uk.json",
+      "language": "uk"
+    },
+    {
+      "pack": "ui/vi",
+      "kind": "ui",
+      "name": "Tiếng Việt",
+      "revision": 1,
+      "min": "1.9.0",
+      "bytes": 7128,
+      "sha256": "c94d61b471f8016b5a0d7aa81198623c874000f27356746498d670d007e39aaf",
+      "path": "ui/vi.json",
+      "language": "vi"
     }
   ]
 }
